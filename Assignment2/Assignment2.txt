@@ -1,0 +1,9 @@
+Topic
+=====
+The topic of the paper you review must be in an area related to the deployment & delivery model lectures or the content covered in the AWS Educate Cloud 101 Career Pathways course.
+
+Instructions
+============
+Please refer to the paper review instructions HERE.
+
+This is an individual assessment, no collaboration with your peers is allowed. Your response must come from your brain only.

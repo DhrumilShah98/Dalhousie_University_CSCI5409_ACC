@@ -1,0 +1,9 @@
+Topic
+=====
+The topic of the paper you review must be in an area related to the introductory topics covered in the history, introduction to cloud computing and cloud-enabling technology lectures.
+
+Instructions
+============
+Please refer to Graduate Student Paper Reviews.
+
+This is an individual assessment, no collaboration with your peers is allowed. Your response must come from your brain only.
