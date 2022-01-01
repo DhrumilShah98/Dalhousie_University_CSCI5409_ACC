@@ -1,0 +1,43 @@
+{
+  "name": "travel_memories_backend",
+  "version": "0.1.0",
+  "description": "A travel application back-end built as part of the final project in class CSCI5409 - Advanced Cloud Computing using multiple cloud services.",
+  "main": "server.js",
+  "contributors": [
+    {
+      "name": "Dhrumil Amish Shah",
+      "email": "dh416386@dal.ca"
+    },
+    {
+      "name": "Jaspreet Kaur Gill",
+      "email": "js523380@dal.ca"
+    },
+    {
+      "name": "Nachiket Niranjanbhai Panchal",
+      "email": "nc784795@dal.ca"
+    },
+    {
+      "name": "Samiksha Narendra Salgaonkar",
+      "email": "sm853820@dal.ca"
+    }
+  ],
+  "scripts": {
+    "start": "node server.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "travel",
+    "memories",
+    "photos"
+  ],
+  "author": "Dhrumil Amish Shah",
+  "license": "ISC",
+  "dependencies": {
+    "aws-sdk": "^2.1040.0",
+    "cors": "^2.8.5",
+    "dotenv": "^10.0.0",
+    "express": "^4.17.1",
+    "multer": "^1.4.3",
+    "uuid": "^8.3.2"
+  }
+}

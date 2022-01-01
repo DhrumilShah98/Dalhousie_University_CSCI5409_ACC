@@ -1,0 +1,7 @@
+AWS_ACCESS_KEY=AWS_ACCESS_KEY
+AWS_SECRET_KEY=AWS_SECRET_KEY
+AWS_SESSION_TOKEN=AWS_SESSION_TOKEN
+AWS_REGION=us-east-1
+AWS_DYNAMODB_ENDPOINT=http://dynamodb.us-east-1.amazonaws.com
+AWS_S3_BUCKET=travel-memory-post-bucket
+AWS_S3_ENDPOINT=http://s3.us-east-1.amazonaws.com

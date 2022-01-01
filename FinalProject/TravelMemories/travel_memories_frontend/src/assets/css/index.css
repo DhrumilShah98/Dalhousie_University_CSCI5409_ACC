@@ -1,0 +1,152 @@
+header {
+  box-shadow: 0px 3px 3px rgba(0, 0, 0, 0.25);
+  z-index: 2;
+  padding-left: 10px !important;
+  padding-right: 10px !important;
+}
+.logo {
+  height: 46px;
+}
+.main-title {
+  color: #212121 !important;
+}
+.navbar {
+  height: 72px;
+}
+.navbar-brand {
+  padding-top: 0;
+  padding-bottom: 0;
+}
+.notify-icon {
+  float: right;
+}
+.float-right {
+  float: right;
+}
+.float-left {
+  float: left;
+}
+.float-none {
+  float: none;
+}
+.card {
+  border: none !important;
+  box-shadow: 0 0 3px -1px #656565 !important;
+}
+.bg-cyan {
+  background-color: #EC407A !important;
+}
+.text-cyan {
+  color: #EC407A !important;
+}
+.btn-cyan {
+  background-color: #EC407A !important;
+  color: #fff !important;
+}
+.btn-cyan:hover {
+  color: #fff;
+  background-color: #EC407A !important;
+  border-color: #EC407A !important;
+}
+.border-cyan {
+  border: 1px solid #EC407A !important;
+}
+.btn-icon {
+  align-items: center !important;
+  display: flex;
+  justify-content: center !important;
+  border-radius: 100% !important;
+  font-size: 16px !important;
+}
+.btn-icon-sm {
+  padding: 2px 6px !important;
+}
+.btn,
+.btn-icon:focus,
+.btn-icon-sm:focus {
+  box-shadow: none !important;
+}
+.btn-32 {
+  height: 32px;
+  width: 32px;
+}
+.btn-46 {
+  height: 46px;
+  width: 46px;
+  padding: 0.5em 0.6em !important;
+}
+.bg-red {
+  background-color: #ef5350 !important;
+}
+.design-card:hover {
+  transform: translate3D(0, -1px, 0) scale(1.03);
+}
+#NavToggler {
+  display: none;
+}
+#sidebar {
+  position: absolute;
+  top: 0;
+  height: 100%;
+  width: 250px;
+  padding-top: 72px;
+  background: #212121;
+  overflow-x: hidden;
+  transition: 0.3s linear;
+  z-index: 1;
+}
+#sidebar ul {
+  padding: 0;
+  margin: 0;
+}
+#sidebar a,
+#sidebar p {
+  width: 100%;
+  display: flex;
+  padding: 10px 5px;
+  color: #fff;
+  text-decoration: none;
+  cursor: pointer;
+}
+#sidebar a:hover,
+#sidebar p:hover {
+  border-left: 2px solid #EC407A;
+  background-color: #151515;
+}
+#pageBody.responsive #sidebar.open {
+  width: 250px;
+}
+#container {
+  margin-left: 250px;
+  width: calc(100% - 250px);
+  position: absolute;
+  overflow-y: scroll;
+  height: calc(100% - 72px);
+}
+#container.fixed {
+  margin-left: 0px;
+  margin: auto;
+}
+.link_icon {
+  display: flex;
+  width: 40px;
+  justify-content: center;
+  align-items: center;
+}
+@media only screen and (max-width: 768px) {
+  #NavToggler {
+      display: flex;
+  }
+  #container {
+      margin-left: 0px;
+      margin: auto;
+      width: 100%;
+      max-width: 100%;
+  }
+  #sidebar {
+      width: 0px;
+  }
+  #sidebar.open {
+      width: 250px;
+  }
+}
