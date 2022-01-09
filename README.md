@@ -1,5 +1,5 @@
-# Dalhousie University | CSCI5409 | ACC (Advanced Topics in Cloud Computing)
-All assignments and the final project are completed in class CSCI5409 (Advanced Topics in Cloud Computing) of MACS at Dalhousie University. CSCI 5409 ACC Dalhousie University.<br/>
+# Dalhousie University | CSCI 5409 | ACC (Advanced Topics in Cloud Computing)
+All assignments and the final project are completed in class CSCI 5409 (Advanced Topics in Cloud Computing) of MACS at Dalhousie University. CSCI 5409 ACC Dalhousie University.<br/>
 Final Letter Grade Received: **A+**
 
 ## Authors
